@@ -1,0 +1,5 @@
+BASE_URL = 'https://api.kucoin.com'
+API_KEY = 'werwerwer6432fc81b80269000109421e-www'
+API_SECRET = 'werwerwer62dab32a-da09-4cad-bac9-41f22f7bc4e1-www'
+API_PASS = 'werwerwereBnjAtEZH6$f4Hc'
+API_VERSION = '2'
